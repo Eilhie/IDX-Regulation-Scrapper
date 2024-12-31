@@ -12,7 +12,7 @@ import csv
 def send_email_notification(subject, body):
     sender_email = "maru.dev.purpose@gmail.com"  # Your email
     receiver_email = "b.sachio88@gmail.com"  # Receiver's email
-    password = "ymkm xqeh iklc dgxy"  # Your app password (generated in Google Account)
+    password = "XXXXXXXXXXXXX"  # Your app password (generated in Google Account)
     
     msg = MIMEMultipart()
     msg['From'] = sender_email
