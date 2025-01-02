@@ -28,8 +28,8 @@ df = pd.DataFrame()
 
 def send_email_notification(subject, body, attachment_paths=None):
     from_address = "maru.dev.purpose@gmail.com"
-    to_address = "b.sachio88@gmail.com"
-    password = "ymkm xqeh iklc dgxy"
+    to_address = "Reyhan.Prasetyo@cimbniaga.co.id"
+    password = "YOUR APP PASSWORD HERE"
 
     # Create the email message
     msg = MIMEMultipart()
